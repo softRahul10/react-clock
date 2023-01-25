@@ -1,5 +1,6 @@
 import Clock from "./components/Clock";
 import Icon from "./components/Icon";
+import './App.css';
 
 function App() {
    return (
